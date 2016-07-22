@@ -11,12 +11,12 @@ url:              https://juntian-t.github.io
 owner:
   name:           Juntian Tao
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  bio:            "Web Developer & iOS Developer"
+  email:          
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
+  github:         "https://github.com/Juntian-T"
   stackexchange:  
   linkedin:       
   instagram:      
