@@ -25,7 +25,7 @@ TableView的内容一般是由一个array来定义的。这个array可以array o
 
 1. code only - 从Storyboard中通过Identifier实例化新的view controller，然后downcast到这个view controller的type，定义完相关内容后，push到stack上
 	
-	~~~ swift
+	~~~
 	let resultVC = storyboard?.instantiateViewControllerWithIdentifier("ResultViewController") as! ResultViewController
 	navigationController?.pushViewController(resultVC, animated: true)
 	resultVC.property = 10
