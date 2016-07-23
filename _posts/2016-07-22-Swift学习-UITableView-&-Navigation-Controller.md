@@ -17,7 +17,7 @@ TableView的内容一般是由一个array来定义的。这个array可以array o
 
 记住，在Storyboard里建立新view controller，拖入table view后，需要将该table view的data source设定为当前view controller
 
-————————————————————————
+___
 
 今天另一重点是Navigation Controller。其本质很简单，就是一个stack of view controllers，比如iOS自带的Settings。第一层是一个root view controller；点击一个新选项，这个新的view controllers就被push到stack上，然后被显示出来；点击返回后，这个view controller被pop，它下面的view controller就再次显示出来。
 
