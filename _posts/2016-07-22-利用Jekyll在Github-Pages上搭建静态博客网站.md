@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: 利用Jekyll在Github Pages上搭建静态博客网站
 tags: [Jekyll, Github Pages]
 ---
